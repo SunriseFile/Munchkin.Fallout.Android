@@ -3,4 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="pipboyGreen">#18fe1f</color>
+    <color name="pipboyGreenDark">#0b3d0a</color>
 </resources>
